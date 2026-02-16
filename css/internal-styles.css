@@ -577,7 +577,7 @@ Main components
   overflow: hidden;
   text-indent: 100%;
   white-space: nowrap;
-  background: rgba(232, 98, 86, 0.8) url(https://a91d4da009214563389d-2291296bddf53d3482c090e6456303db.ssl.cf1.rackcdn.com/1474359507651cdtoparrow.png) no-repeat center 50%;
+  background: rgba(232, 98, 86, 0.8) url('imgs/b42a41c79696edb032b927c535215e08.png') no-repeat center 50%;
   visibility: hidden;
   opacity: 0;
   -webkit-transition: opacity .3s 0s, visibility 0s .3s;
@@ -3309,7 +3309,7 @@ transition: all 0.3s;
 }
 
 div#viamagus_Grid_gallery_6472 {
-    background: url('https://a91d4da009214563389d-2291296bddf53d3482c090e6456303db.ssl.cf1.rackcdn.com/1464844163995parallaxoptimized1024x576.jpeg');
+    background: url('imgs/92ecf41b294649ef2a39d26624fb2b1f.jpeg');
     background-size: cover;
 }
 .viamagus-grid h4 {
@@ -3321,7 +3321,7 @@ div#viamagus_Grid_gallery_6472 {
     padding-left: 20px;
 }
      div#viamagus_Grid_gallery_2314 {
-    background: url('https://a91d4da009214563389d-2291296bddf53d3482c090e6456303db.ssl.cf1.rackcdn.com/1465277853904parallaxoptimized2.jpeg');
+    background: url('imgs/f365e358bbdd2ef82843d0dad65d238c.jpeg');
     background-size: cover;
 }
 
